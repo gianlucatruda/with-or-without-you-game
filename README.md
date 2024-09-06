@@ -1,5 +1,7 @@
 Play at https://with-or-without-you.vercel.app/
 
+[<img alt="Made with love at the Recurse Center" src="https://cloud.githubusercontent.com/assets/2883345/11325206/336ea5f4-9150-11e5-9e90-d86ad31993d8.png" height="20">](https://www.recurse.com/)
+
 A hedgehog and a balloon explore their complex push-pull relationship with the help of "sleight of hand" from the player and "twist of fate" from the RNG. 
 
 ![GIF demo](demo.gif)
