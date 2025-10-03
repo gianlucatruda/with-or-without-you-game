@@ -1,7 +1,3 @@
-console.log("Started");
-import p5 from "https://cdn.skypack.dev/p5";
-console.log("Imported P5");
-
 let scaleFactor;
 let hedgehog, balloon;
 let score = 0;
